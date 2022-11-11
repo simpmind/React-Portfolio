@@ -1,21 +1,22 @@
 import React from "react";
-import GithubIcon from "@material-ui/icons/GitHub";
-import TwitterIcon from "@material-ui/icons/Twitter";
-import LinkedInIcon from "@material-ui/icons/LinkedIn";
 
+
+import { VscGithubAlt } from "react-icons/vsc";
+import { AiOutlineLinkedin } from "react-icons/ai";
+import { FaInstagram } from "react-icons/fa";
 
 function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
         <a href="https://www.github.com/simpmind/">
-          <GithubIcon />
+          <VscGithubAlt />
         </a>
-        <a href="https://twitter.com/elonmusk">
-          <TwitterIcon />
+        <a href="https://instagram.com/elonmusk">
+          <FaInstagram />
         </a>
         <a href="https://www.linkedin.com/">
-          <LinkedInIcon />
+          <AiOutlineLinkedin />
         </a>
       </div>
       <p> &copy; 2022 DUC DANG</p>
