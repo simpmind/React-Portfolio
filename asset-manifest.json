@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ac32b66.css",
-    "main.js": "/static/js/main.0528d8a9.js",
-    "static/media/landingpage.png": "/static/media/landingpage.b098712f80085e096500.png",
-    "static/media/avatar.jpg": "/static/media/avatar.8e6eaa3116957de5932f.jpg",
-    "static/media/blog.jpg": "/static/media/blog.36e12c60a07a2de69851.jpg",
-    "static/media/banner.jpg": "/static/media/banner.e8fc80d0a6d761cf02c2.jpg",
-    "static/media/notes.png": "/static/media/notes.1d32771d654e4263333b.png",
-    "static/media/API.png": "/static/media/API.7364145696ed906a9b57.png",
-    "static/media/petfinder.jpg": "/static/media/petfinder.3ba5fe8cbfcabb1fa5ca.jpg",
-    "static/media/resume.pdf": "/static/media/resume.b9779eb0772a790958cf.pdf",
-    "static/media/PWA.png": "/static/media/PWA.9a76d1caebcff865f4b6.png",
-    "index.html": "/index.html",
-    "main.4ac32b66.css.map": "/static/css/main.4ac32b66.css.map",
-    "main.0528d8a9.js.map": "/static/js/main.0528d8a9.js.map"
+    "main.css": "/React-Portfolio/static/css/main.5f3c75a8.css",
+    "main.js": "/React-Portfolio/static/js/main.2205f006.js",
+    "static/media/landingpage.png": "/React-Portfolio/static/media/landingpage.b098712f80085e096500.png",
+    "static/media/avatar.jpg": "/React-Portfolio/static/media/avatar.8e6eaa3116957de5932f.jpg",
+    "static/media/blog.jpg": "/React-Portfolio/static/media/blog.36e12c60a07a2de69851.jpg",
+    "static/media/banner.jpg": "/React-Portfolio/static/media/banner.e8fc80d0a6d761cf02c2.jpg",
+    "static/media/notes.png": "/React-Portfolio/static/media/notes.1d32771d654e4263333b.png",
+    "static/media/API.png": "/React-Portfolio/static/media/API.7364145696ed906a9b57.png",
+    "static/media/petfinder.jpg": "/React-Portfolio/static/media/petfinder.3ba5fe8cbfcabb1fa5ca.jpg",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.b9779eb0772a790958cf.pdf",
+    "static/media/PWA.png": "/React-Portfolio/static/media/PWA.9a76d1caebcff865f4b6.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.5f3c75a8.css.map": "/React-Portfolio/static/css/main.5f3c75a8.css.map",
+    "main.2205f006.js.map": "/React-Portfolio/static/js/main.2205f006.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ac32b66.css",
-    "static/js/main.0528d8a9.js"
+    "static/css/main.5f3c75a8.css",
+    "static/js/main.2205f006.js"
   ]
 }
