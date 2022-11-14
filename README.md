@@ -82,7 +82,7 @@ Anthony Pillow - Bootcamp TA
 Ave Steimle  - Bootcamp TA
 
 ## Link 
-<a href="https://github.com/simpmind/React-Portfolio/">Click Here</a>
+<a href="https://simpmind.github.io/React-Portfolio/">Click Here</a>
 
 ## Usage 
 
